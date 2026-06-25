@@ -1,0 +1,27 @@
+# Data
+pandas
+numpy
+
+# Graph Database
+neo4j
+
+# LLM & RAG
+langchain
+langchain-community
+langchain-google-genai
+
+# Embeddings & Vector Store
+sentence-transformers
+faiss-cpu
+
+# OpenStreetMap
+osmnx
+requests
+
+# UI
+streamlit
+pyvis
+
+# Utils
+python-dotenv
+tqdm
